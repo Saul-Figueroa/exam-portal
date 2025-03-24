@@ -1,0 +1,9 @@
+.full-width{
+    width: 100%;
+}
+
+.logo {
+    width: 150px;
+    height: auto; /* Keeps the aspect ratio */
+}
+

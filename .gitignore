@@ -1,0 +1,6 @@
+# Ignore .idea directory (for JetBrains IDEs like IntelliJ IDEA)
+.idea/
+
+# Ignore .DS_Store file (created by macOS)
+.DS_Store
+
